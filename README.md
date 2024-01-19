@@ -80,6 +80,7 @@
 ![Jetbrains Badge](https://img.shields.io/badge/Jetbrains-000000?logo=jetbrains&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff&style=flat)
+![Chat GTP Badge](https://img.shields.io/badge/Chat%20GTP-412991?logo=openai&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
