@@ -16,10 +16,11 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  #  🙋 Hello
+# 🙋 Hello
+
 </div>
 <table>
-  
+
 <tr><td>
 
 ### 🤺 About Me
@@ -42,7 +43,6 @@
 
 🧠 知识储备
 
-
 ![Java Badge](https://img.shields.io/badge/Java-2f2625?logo=coffeescript&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
@@ -52,6 +52,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat)
 
 ![Apache Tomcat Kafka Badge](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?logo=apachetomcat&logoColor=fff&style=flat)
 ![Nginx Kafka Badge](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat)
@@ -69,6 +70,7 @@
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![Rust Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
