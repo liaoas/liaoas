@@ -14,8 +14,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-# Request ID=16012024/13486901
-
 # 🙋 Hello
 
 </div>
